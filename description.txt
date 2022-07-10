@@ -9,4 +9,5 @@ Operator                            Name
 	
 *	                         Multiplication
 	
-/                                             Division
+/                                 Division
+all this Operators work mathematical operation 

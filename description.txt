@@ -1,0 +1,12 @@
+In this,python file we are demonstrat python Operators.
+Operators are used to perfrom operation on variables and values.
+
+Operator                            Name
+
++	                         Addition
+		
+-	                         Subtraction	
+	
+*	                         Multiplication
+	
+/                                             Division
